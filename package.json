@@ -1,0 +1,24 @@
+{
+  "name": "oni-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "engines": {
+    "oni": "^0.2.8"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.20",
+    "@types/react": "^17.0.0",
+    "discord-rpc": "^3.1.4",
+    "oni-api": "0.0.50",
+    "oni-types": "0.0.8",
+    "rimraf": "^3.0.2",
+    "vscode-languageserver-types": "3.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

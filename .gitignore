@@ -1,0 +1,4 @@
+node_modules
+lib/DiscordActivity.js
+lib/DiscordRPCClient.js
+lib/index.js
